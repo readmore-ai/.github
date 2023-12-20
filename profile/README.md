@@ -1,4 +1,4 @@
-![Welcome to the ReadMore AI GitHub]()
+![Welcome to the ReadMore AI GitHub](https://github.com/readmore-ai/.github/blob/main/profile/readmore-github.png?raw=true)
 
 ## Welcome to ReadMore AI
 
